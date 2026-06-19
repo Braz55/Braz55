@@ -16,7 +16,7 @@ c# · .net · typescript · nestjs · react · postgres · docker · rabbitmq
 
 ### Featured projects
 
-- **[Otaku Time Pro](https://github.com/Braz55/otakutime)** · A full-stack ecosystem for anime and manga tracking. Built with a modern architecture using NestJS, React, and PostgreSQL.
+- **[Otaku Time Pro](https://github.com/Braz55/Otaku-Time-v2)** · A full-stack ecosystem for anime and manga tracking. Built with a modern architecture using NestJS, React, and PostgreSQL.
 - **ProjectPilot** · A collaborative local AI assistant developed with INESC TEC for intelligent documentation analysis, leveraging Llama 3.1 and RAG techniques.
 - **Distributed IoT Platform** · A scalable distributed systems infrastructure designed to monitor IoT sensors using RabbitMQ, gRPC, and MongoDB.
 
@@ -25,16 +25,19 @@ c# · .net · typescript · nestjs · react · postgres · docker · rabbitmq
 ### Git stats & productivity
 
 <div align="center">
-  <!-- Cartão de Estatísticas Gerais -->
-<img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=Braz55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />  
-  <!-- Gráfico das Linguagens Mais Usadas -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braz55&layout=compact&theme=tokyonight&langs_count=6" />
-</div>
+  <!-- Linha 1: Estatísticas Gerais -->
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=Braz55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />>
+  
+  <br/><br/>
 
-<p align="center">
-  <!-- Contador de Consistência -->
+  <!-- Linha 2: Linguagens Mais Usadas -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braz55&layout=compact&theme=tokyonight&langs_count=6" />
+
+  <br/><br/>
+
+  <!-- Linha 3: Contador de Consistência -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Braz55&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
