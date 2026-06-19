@@ -11,7 +11,7 @@
   <tr>
     <td width="60%" valign="top">
       <p> <strong>Computer Engineering Student</strong> from Portugal 🇵🇹</p>
-      <p> I build <strong>full-stack web applications</strong> and robust software ecosystems — focused on <strong>clean architecture</strong>, modern web technologies, and practical, scalable solutions.</p>
+      <p> I build <strong>full-stack web applications</strong> and robust software ecosystems, focused on <strong>clean architecture</strong>, modern web technologies, and practical, scalable solutions.</p>
       <p> Currently finishing my degree and looking to level up with a <strong>Master's in Software Engineering</strong>.</p>
       <p> I enjoy solving complex problems, writing clean code, and exploring distributed systems.</p>
     </td>
@@ -37,25 +37,17 @@
 
 ---
 
-###  Featured Projects
+### Featured Projects
 
-<!-- Projeto 1 -->
-####  [Otaku Time Pro](https://github.com/Braz55/Otaku-Time-v2)
+#### [Otaku Time Pro](https://github.com/Braz55/Otaku-Time-v2)
 > A full-stack ecosystem for anime and manga tracking. Built with a modern architecture using NestJS, React, and PostgreSQL.
 > 
-> `React` `NestJS` `PostgreSQL` `TypeScript` `Clean Architecture`
+> `React` `NestJS` `PostgreSQL` `TypeScript` `Capacitor` `Clean Architecture`
 
-<!-- Projeto 2 -->
-####  [ProjectPilot](https://github.com/Braz55/ProjectPilot) *(Adiciona o link real do projeto se existir)*
+#### ProjectPilot
 > A collaborative local AI assistant developed with **INESC TEC** for intelligent documentation analysis, leveraging Llama 3.1 and RAG techniques.
 > 
 > `Python` `Llama 3.1` `RAG` `AI Assistant` `Vector DB`
-
-<!-- Projeto 3 -->
-####  [Distributed IoT Platform](https://github.com/Braz55) *(Adiciona o link real do projeto se existir)*
-> A scalable distributed systems infrastructure designed to monitor IoT sensors using RabbitMQ, gRPC, and MongoDB.
-> 
-> `RabbitMQ` `gRPC` `MongoDB` `Distributed Systems`
 
 ---
 
