@@ -1,16 +1,19 @@
-## Hi there 👋
+### hey, i'm pedro 👋
 
-<!--
-**Braz55/Braz55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+computer engineering student · portugal 🇵🇹
 
-Here are some ideas to get you started:
+i build full-stack web applications and robust software ecosystems — 
+focused on clean architecture, modern web tech, and practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently finishing my degree and looking to level up with a master's in software engineering.
+
+---
+
+### stack
+c# · .net · typescript · nestjs · react · postgres · docker · rabbitmq
+
+---
+
+reach me at [pm7703125@gmail.com]
+
+
