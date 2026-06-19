@@ -41,6 +41,18 @@ c# · .net · typescript · nestjs · react · postgres · docker · rabbitmq
 
 ---
 
+### Beyond coding
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Genshin_Impact-4A5265?style=for-the-badge&logo=hoyoverse&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Minecraft-%234A2E1C.svg?style=for-the-badge&logo=minecraft&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Anime_&_Manga-FF6F61?style=for-the-badge&logo=myanimelist&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Gym_&_Fitness-000000?style=for-the-badge&logo=strong&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Cooking_&_Baking-E67E22?style=for-the-badge&logo=kitchenaid&logoColor=white" />
+</p>
+
+---
+
 ### Connect with me
 
 <p align="center">
