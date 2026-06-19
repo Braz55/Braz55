@@ -9,8 +9,24 @@ currently finishing my degree and looking to level up with a master's in softwar
 
 ---
 
-### Stack
-c# · .net · typescript · nestjs · react · postgres · docker · rabbitmq
+###  Tech Stack
+
+<div align="center">
+
+  <h4>Programação</h4>
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,py,c,cpp,html,css&theme=dark" />
+  
+  <br/><br/>
+
+  <h4>Bases de Dados</h4>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark" />
+
+  <br/><br/>
+  
+  <h4>Frameworks, Ferramentas & Infraestrutura</h4>
+  <img src="https://skillicons.dev/icons?i=dotnet,nestjs,react,docker,rabbitmq,githubactions&theme=dark" />
+
+</div>
 
 ---
 
