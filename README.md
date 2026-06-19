@@ -30,7 +30,7 @@
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Programação** | <img src="https://skillicons.dev/icons?i=cs,ts,js,py,c,cpp,html,css&theme=dark" height="30" /> |
-| **Bases de Dados** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark" height="30" /> |
+| **Bases de Dados** | <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,supabase&theme=dark" /> |
 | **Frameworks, Ferramentas & Infra** | <img src="https://skillicons.dev/icons?i=dotnet,nestjs,react,docker,rabbitmq,githubactions&theme=dark" height="30" /> |
 
 </div>
